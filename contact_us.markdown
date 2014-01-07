@@ -16,12 +16,12 @@ Join us on IRC for real-time collaboration and support.
 ## Mailing lists
 
 **User friendly** - 
-[aeolus-users](https://lists.fedorahosted.org/mailman/listinfo/aeolus-users) \([archives](https://lists.fedorahosted.org/pipermail/aeolus-users/)\)  
-For SysAdmin's and general (non-developer) users, the aeolus-users mailing list is the place for discussion and to seek assistance.
+[imagefactory-users](https://lists.fedorahosted.org/mailman/listinfo/imagefactory-users) \([archives](https://lists.fedorahosted.org/pipermail/imagefactory-users/)\)  
+For SysAdmin's and general (non-developer) users, the imagefactory-users mailing list is the place for discussion and to seek assistance.
 
 
 **Developers and more technical users** - 
-[aeolus-devel](https://lists.fedorahosted.org/mailman/listinfo/aeolus-devel) \([archives](https://lists.fedorahosted.org/pipermail/aeolus-devel/)\)  
+[imagefactory-devel](https://lists.fedorahosted.org/mailman/listinfo/imagefactory-devel) \([archives](https://lists.fedorahosted.org/pipermail/imagefactory-devel/)\)  
 For discussions of api, architecture, and ongoing development.
 
 <a id="social" />
