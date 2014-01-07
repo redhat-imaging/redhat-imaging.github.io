@@ -1,0 +1,24 @@
+---
+# YAML front matter. Must exist for Jekyll to process this file.
+---
+
+<html>
+  {% include head.html %}
+  <body>
+    {% include topnavbar.html %}
+    <div class="wrapper">
+      <wide-section>
+      {{ content }}
+      <hr/>
+      <p>
+        Subscribe:
+           <a href="/blog/atom.xml">atom</a>
+      </p>
+
+      </wide-section>
+      <!-- {% include footer.html %} -->
+    </div>
+    <script src="{{ site.baseurl }}/javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>

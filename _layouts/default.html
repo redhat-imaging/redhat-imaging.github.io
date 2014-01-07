@@ -1,0 +1,15 @@
+<html>
+  {% include head.html %}
+  <body>
+    {% include topnavbar.html %}
+    <div class="wrapper">
+        {% include about.html %}
+      <section>
+      {{ content }}
+      </section>
+      {% include footer.html %}
+    </div>
+    <script src="{{ site.baseurl }}/javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>

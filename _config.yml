@@ -1,0 +1,24 @@
+pygments: true
+lsi: true
+permalink: /blog/:year/:month/:day/:title
+exclude: [imgfac]
+
+# Site data
+baseurl:
+url: http://imgfac.org
+sitename: imagefactory
+tagline: build, push, deploy
+
+navigation:
+- name: Home
+  url: /
+  section: home
+- name: Blog
+  url: /blog
+  section: blog
+- name: Documentation
+  url: /documentation
+  section: documentation
+- name: Contact Us
+  url: /contact_us.html
+  section: contact_us
