@@ -5,7 +5,7 @@ exclude: [imgfac]
 
 # Site data
 baseurl:
-#url: http://imgfac.org
+url: http://imgfac.org
 sitename: imagefactory
 tagline: build, push, deploy
 
